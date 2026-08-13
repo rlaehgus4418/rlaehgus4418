@@ -59,7 +59,7 @@
 
 > **SNS에서 발견한 장소를 지도로 모으고 사람들과 함께 기록·공유하는 지도 큐레이션 Android 앱**
 
-`2026.07 – 진행 중` · **Team Leader / Android Developer** · 6인 협업 프로젝트 · **소프트웨어 공모전 금상**
+`2026.07 – 진행 중` · **Web / Android Developer** · 6인 협업 프로젝트 · **소프트웨어 공모전 금상**
 
 `Kotlin` `Jetpack Compose` `Hilt` `Retrofit` `Mapbox` `Kakao SDK` `Coil`
 
