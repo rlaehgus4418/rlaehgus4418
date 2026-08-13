@@ -40,13 +40,14 @@
 
 > **회의 자료와 대화 맥락을 바탕으로 실시간 전사, 역할별 힌트, AI Chat을 제공하는 협업 서비스**
 
-`2026.07 – 2026.08` · **Frontend Lead** · Frontend 3인
+`2026.06 – 진행 중` · **Frontend Lead** · 총 12인  
+기획 1 · 디자인 2 · 프론트엔드 3 · 백엔드 6
 
 `React` `TypeScript` `TanStack Query` `Tailwind CSS` `Axios` `WebSocket` `AWS S3` `CloudFront`
 
 - 공통 컴포넌트와 디자인 토큰, Feature-Sliced Design 기반 프론트엔드 구조를 구축했습니다.
 - 회의 진행 화면 전체와 실시간 STT, SynQ 힌트, AI Chat, 참여자·타이머 상태 동기화를 구현했습니다.
-- API 연동과 QA를 거쳐 GitHub Actions–S3–CloudFront 배포 흐름을 구성하고 실제 서비스로 배포했습니다.
+- API 연동과 QA를 거쳐 GitHub Actions–S3–CloudFront 배포 흐름을 구성하고 실제 서비스로 배포했으며, 현재도 기능을 개선하고 있습니다.
 
 <p>
   <a href="https://synqai.co.kr"><img src="https://img.shields.io/badge/Live-Service-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Service"></a>
@@ -58,7 +59,7 @@
 
 > **SNS에서 발견한 장소를 지도로 모으고 사람들과 함께 기록·공유하는 지도 큐레이션 Android 앱**
 
-`2026.07 – 진행 중` · **Team Leader / Android Developer** · 4인 팀 · **소프트웨어 공모전 금상**
+`2026.07 – 진행 중` · **Team Leader / Android Developer** · 6인 협업 프로젝트 · **소프트웨어 공모전 금상**
 
 `Kotlin` `Jetpack Compose` `Hilt` `Retrofit` `Mapbox` `Kakao SDK` `Coil`
 
@@ -116,7 +117,7 @@
 | 기간 | 활동 | 역할 및 경험 |
 |---|---|---|
 | 2026.03 – 2026.07 | UMC 10기 숭실대학교 | **회장** · 지부 운영, Git·Figma 세션과 MESH 해커톤 운영, 개발 환경 구축 지원 |
-| 2026.07 – 2026.08 | UMC 10기 SynQ | **프론트엔드 리드** · 실시간 회의 및 AI 기능 개발, API 연동, QA·배포 |
+| 2026.06 – 현재 | SynQ | **프론트엔드 리드** · 12인 협업 프로젝트의 실시간 회의 및 AI 기능 개발, API 연동, QA·배포와 지속 개선 |
 | 2025.09 – 2026.02 | UMC 9기 | Web Challenger · React 스터디 및 ONMOIM 프론트엔드 개발 |
 | 2021.09 – 현재 | SSCC 중앙 컴퓨터 동아리 | 개발 스터디와 교내 프로젝트·문제 해결 활동 참여 |
 | 2025.12 – 2026.01 | Co-op 집중학기제 SAP 트랙 | SAP ERP·ABAP·Open SQL 기반 프로그램 및 데이터 모델링 실습 |
@@ -144,12 +145,12 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rlaehgus4418&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaehgus4418&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top Languages">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rlaehgus4418&theme=github&v=1" alt="GitHub Stats">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rlaehgus4418&theme=github&v=1" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rlaehgus4418&hide_border=true&theme=transparent" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=rlaehgus4418&hide_border=true&theme=transparent&v=1" alt="GitHub Streak">
 </p>
 
 ---
